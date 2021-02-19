@@ -5,7 +5,7 @@ const config = {
     // Initialize the payment form elements
     
     //TODO: Replace with your sandbox application ID
-    applicationId: 'sandbox-sq0idb-xzTAol0_Mas5ary9uDgpGw',
+    applicationId: 'your_application_id',
     inputClass: 'sq-input',
     autoBuild: false,
     // Customize the CSS for SqPaymentForm iframe elements
